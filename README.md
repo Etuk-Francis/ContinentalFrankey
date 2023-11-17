@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Frankey101
 - 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning Data Analytics from cousera
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Analytics from cousera and W3
+- 💞️ I’m looking to collaborate on data analysis project and more
 - 📫 How to reach me on email: franetuketuk16@gmail.com or +2348164594475
 
 <!---
